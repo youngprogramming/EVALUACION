@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "7552855071",
+    "firebase_url": "https://codigoelectrizante-e2738-default-rtdb.firebaseio.com",
+    "project_id": "codigoelectrizante-e2738",
+    "storage_bucket": "codigoelectrizante-e2738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7552855071:android:c7b367f316cbfcbb4ff92a",
+        "android_client_info": {
+          "package_name": "com.example.codigoelectrizante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3p0xDKk_PyXw5o97EmreG2dEsmbUFDrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
